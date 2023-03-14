@@ -1,1 +1,1 @@
-Directory to practice epansions
+Directory to practice alias
